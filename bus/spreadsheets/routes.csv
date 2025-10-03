@@ -1,0 +1,198 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,continuous_pickup,continuous_drop_off,network_id
+1-350,1,1,Blair <> Tunney's Pasture,,0,,D30F1D,FFFFFF,1,1,1
+10,1,10,Hurdman <> Main,,3,,0057B8,FFFFFF,17,1,1
+105,1,105,Airport ~ Aéroport <> Hurdman / St-Laurent & N Rideau,,3,,0057B8,FFFFFF,112,1,1
+11,1,11,Waller <> Bayshore,,3,,0057B8,FFFFFF,18,1,1
+110,1,110,Innovation / Briarbrook <> Limebank & Greenboro,,3,,6D6E70,FFFFFF,117,1,1
+111,1,111,Billings Bridge / Carleton <> Baseline,,3,,0057B8,FFFFFF,118,1,1
+112,1,112,Billings Bridge <> Baseline,,3,,6D6E70,FFFFFF,119,1,1
+116,1,116,Greenboro <> Baseline,,3,,6D6E70,FFFFFF,123,1,1
+117,1,117,Baseline <> Greenboro,,3,,FFFFFF,6D6E70,124,1,1
+12,1,12,Blair <> Tunney's Pasture,,3,,0057B8,FFFFFF,19,1,1
+13,1,13,Gatineau <> Tunney's Pasture,,3,,FFFFFF,6D6E70,20,1,1
+138,1,138,Place d'Orléans <> Hiawatha,,3,,6D6E70,FFFFFF,145,1,1
+14,1,14,St-Laurent <> Tunney's Pasture,,3,,0057B8,FFFFFF,21,1,1
+15,1,15,Blair <> Parliament ~ Parlement,,3,,FFFFFF,6D6E70,22,1,1
+153,1,153,Carlingwood <> Lincoln Fields,,3,,FFFFFF,6D6E70,160,1,1
+158,1,158,Bayshore <> Haanel,,3,,FFFFFF,6D6E70,165,1,1
+161,1,161,Hazeldean <> Terry Fox,,3,,6D6E70,FFFFFF,168,1,1
+162,1,162,Kanata West ~ Kanata Ouest <> Terry Fox,,3,,6D6E70,FFFFFF,169,1,1
+163,1,163,Terry Fox <> Kittiwake,,3,,6D6E70,FFFFFF,170,1,1
+165,1,165,Innovation <> Terry Fox,,3,,6D6E70,FFFFFF,172,1,1
+168,1,168,Hope Side <> Terry Fox,,3,,6D6E70,FFFFFF,175,1,1
+17,1,17,Wateridge <> Parliament ~ Parlement,,3,,FFFFFF,6D6E70,24,1,1
+173,1,173,Citigate <> Barrhaven Centre,,3,,6D6E70,FFFFFF,180,1,1
+18,1,18,St-Laurent <> Billings Bridge,,3,,6D6E70,FFFFFF,25,1,1
+187,1,187,Baseline <> Amberwood,,3,,FFFFFF,6D6E70,194,1,1
+189,1,189,Colonnade <> Baseline,,3,,6D6E70,FFFFFF,196,1,1
+19,1,19,Parliament ~ Parlement <> Hurdman,,3,,6D6E70,FFFFFF,26,1,1
+197,1,197,Uplands / Greenboro,,3,,6D6E70,FFFFFF,204,1,1
+198,1,198,Limebank <> Greenboro,,3,,FFFFFF,6D6E70,205,1,1
+2-354,1,2,Bayview <> Limebank,,0,,508128,FFFFFF,2,1,1
+20,1,20,Rideau <> St-Laurent,,3,,6D6E70,FFFFFF,27,1,1
+21,1,21,Canotek <> Blair,,3,,FFFFFF,6D6E70,28,1,1
+221,1,221,Blair <> Cumberland,,3,,B66B94,FFFFFF,228,1,1
+222,1,222,Blair <> Vars,,3,,B66B94,FFFFFF,229,1,1
+226,1,226,Chapel Hill <> Blair,,3,,B66B94,FFFFFF,233,1,1
+228,1,228,Blair <> Navan / Sarsfield,,3,,B66B94,FFFFFF,235,1,1
+23,1,23,Rothwell Heights & Blair,,3,,FFFFFF,6D6E70,30,1,1
+234,1,234,Blair <> Tenth line,,3,,B66B94,FFFFFF,241,1,1
+237,1,237,Blair <> Place d'Orléans,,3,,B66B94,FFFFFF,244,1,1
+24,1,24,Chapel Hill <> St-Laurent,,3,,6D6E70,FFFFFF,31,1,1
+25,1,25,Blair / Wateridge <> Millennium,,3,,0057B8,FFFFFF,32,1,1
+256,1,256,Tunney's Pasture <> Bridlewood,,3,,B66B94,FFFFFF,263,1,1
+26,1,26,Pineview <> Blair,,3,,FFFFFF,6D6E70,33,1,1
+261,1,261,Tunney's Pasture <> Kimpton,,3,,B66B94,FFFFFF,268,1,1
+262,1,262,Tunney's Pasture <> Fernbank,,3,,B66B94,FFFFFF,269,1,1
+263,1,263,Tunney's Pasture <> Richmond,,3,,B66B94,FFFFFF,270,1,1
+265,1,265,Tunney's Pasture <> Terry Fox,,3,,B66B94,FFFFFF,272,1,1
+266,1,266,Tunney's Pasture <> Springbrook,,3,,B66B94,FFFFFF,273,1,1
+275,1,275,Tunney's Pasture <> Half Moon Bay,,3,,B66B94,FFFFFF,282,1,1
+277,1,277,Tunney's Pasture <> Nepean Woods,,3,,B66B94,FFFFFF,284,1,1
+279,1,279,Tunney's Pasture <> Manotick,,3,,B66B94,FFFFFF,286,1,1
+283,1,283,Limebank <> Richmond / Munster,,3,,B66B94,FFFFFF,290,1,1
+294,1,294,Greenboro <> Lester,,3,,B66B94,FFFFFF,301,1,1
+299,1,299,Limebank <> Manotick,,3,,B66B94,FFFFFF,306,1,1
+30,1,30,Blair <> Millennium,,3,,6D6E70,FFFFFF,37,1,1
+301,1,301,Bayshore / Carlingwood <> Richmond / Stittsville,,3,,FFFFFF,6D6E70,308,1,1
+302,1,302,St Laurent / Place D'Orléans <> Cumberland,,3,,FFFFFF,6D6E70,309,1,1
+303,1,303,Bayshore / Carlingwood <> Dunrobin / Carp / Stittsville,,3,,FFFFFF,6D6E70,310,1,1
+304,1,304,Billings Bridge / South Keys <> Osgoode / Greely / Metcalfe,,3,,FFFFFF,6D6E70,311,1,1
+305,1,305,Carlingwood <> North Gower / Manotick,,3,,FFFFFF,6D6E70,312,1,1
+31,1,31,Tenth Line <> Place d'Orléans,,3,,6D6E70,FFFFFF,38,1,1
+32,1,32,Blair <> Chapel Hill,,3,,FFFFFF,6D6E70,39,1,1
+33,1,33,Place d'Orléans / Blair <> Portobello,,3,,6D6E70,FFFFFF,40,1,1
+34,1,34,Blair <> Chapel Hill,,3,,6D6E70,FFFFFF,41,1,1
+35,1,35,Blair <> Avalon,,3,,6D6E70,FFFFFF,42,1,1
+36,1,36,Place d'Orléans <> Innes,,3,,6D6E70,FFFFFF,43,1,1
+38,1,38,Blair <> Trim,,3,,6D6E70,FFFFFF,45,1,1
+39,1,39,Blair & N Rideau <> Millennium,,3,,0057B8,FFFFFF,46,1,1
+4-354,1,4,South Keys <> Airport ~ Aéroport,,0,,0980A5,FFFFFF,4,1,1
+40,1,40,St-Laurent <> Greenboro,,3,,0057B8,FFFFFF,47,1,1
+404,1,404,Canadian Tire Centre ~ Centre Canadian Tire,,3,,FFFFFF,6D6E70,411,1,1
+405,1,405,Canadian Tire Centre ~ Centre Canadian Tire,,3,,FFFFFF,6D6E70,412,1,1
+406,1,406,Canadian Tire Centre ~ Centre Canadian Tire,,3,,FFFFFF,6D6E70,413,1,1
+41,1,41,St-Laurent <> Billings Bridge,,3,,0057B8,FFFFFF,48,1,1
+42,1,42,Blair <> Hurdman,,3,,6D6E70,FFFFFF,49,1,1
+43,1,43,Karsh <> Greenboro,,3,,FFFFFF,6D6E70,50,1,1
+44,1,44,Billings Bridge <> Hurdman,,3,,0057B8,FFFFFF,51,1,1
+45,1,45,Hospital ~ Hôpital <> Hurdman & N Rideau,,3,,0057B8,FFFFFF,52,1,1
+450,1,450,Lansdowne,,3,,FFFFFF,6D6E70,457,1,1
+451,1,451,Lansdowne,,3,,FFFFFF,6D6E70,458,1,1
+452,1,452,Lansdowne,,3,,FFFFFF,6D6E70,459,1,1
+454,1,454,Lansdowne,,3,,FFFFFF,6D6E70,461,1,1
+455,1,455,Lansdowne,,3,,FFFFFF,6D6E70,462,1,1
+456,1,456,Lansdowne,,3,,FFFFFF,6D6E70,463,1,1
+47,1,47,Hawthorne <> St-Laurent,,3,,FFFFFF,6D6E70,54,1,1
+48,1,48,Hurdman <> Carleton,,3,,6D6E70,FFFFFF,55,1,1
+49,1,49,Elmvale <> Hurdman,,3,,6D6E70,FFFFFF,56,1,1
+5,1,5,Waller <> Elmvale,,3,,0057B8,FFFFFF,12,1,1
+51,1,51,Tunney's Pasture <> Britannia,,3,,6D6E70,FFFFFF,58,1,1
+53,1,53,Tunney's Pasture <> Baseline,,3,,6D6E70,FFFFFF,60,1,1
+56,1,56,King Edward & Civic <> Tunney's Pasture,,3,,6D6E70,FFFFFF,63,1,1
+57,1,57,Tunney's Pasture & N Rideau <> Carling Campus ~ Complexe Carling,,3,,0057B8,FFFFFF,64,1,1
+58,1,58,Carling Campus / Abbott POCC ~ Complexe Carling/ Abbott POCC <> Bayshore / Tunney's Pasture,,3,,6D6E70,FFFFFF,65,1,1
+6,1,6,Greenboro <> Rockcliffe,,3,,0057B8,FFFFFF,13,1,1
+60,1,60,Cope <> Terry Fox / Tunney's Pasture,,3,,6D6E70,FFFFFF,67,1,1
+602,1,602,De La Salle <> Rideau,,3,,FFFFFF,6D6E70,609,1,1
+606,1,606,Immaculata H.S,,3,,FFFFFF,6D6E70,613,1,1
+609,1,609,De La Salle <> Elmvale,,3,,FFFFFF,6D6E70,616,1,1
+61,1,61,Tunney's Pasture & N Rideau <> Stittsville,,3,,0057B8,FFFFFF,68,1,1
+610,1,610,St. Pius <> Baseline,,3,,FFFFFF,6D6E70,617,1,1
+611,1,611,Gisele Lalonde <> Orléans,,3,,FFFFFF,6D6E70,618,1,1
+612,1,612,Béatrice Desloges / Gisele Lalonde <> Renaud,,3,,FFFFFF,6D6E70,619,1,1
+613,1,613,Hurdman,,3,,FFFFFF,6D6E70,620,1,1
+615,1,615,Parliament ~ Parlement,,3,,FFFFFF,6D6E70,622,1,1
+616,1,616,Gloucester H.S <> Parliament ~ Parlement,,3,,FFFFFF,6D6E70,623,1,1
+617,1,617,Omer-Deslauriers <> Hurdman,,3,,FFFFFF,6D6E70,624,1,1
+618,1,618,Louis Riel <> Millennium,,3,,FFFFFF,6D6E70,625,1,1
+619,1,619,Louis Riel <> Blair,,3,,FFFFFF,6D6E70,626,1,1
+62,1,62,Tunney's Pasture <> Stittsville,,3,,0057B8,FFFFFF,69,1,1
+620,1,620,St-Laurent,,3,,FFFFFF,6D6E70,627,1,1
+621,1,621,Colonel By H.S <> Bearbrook,,3,,FFFFFF,6D6E70,628,1,1
+622,1,622,Colonel By / Gloucester H.S / Lester B. Pearson <> Renaud,,3,,FFFFFF,6D6E70,629,1,1
+624,1,624,Gloucester H.S <> Rideau,,3,,FFFFFF,6D6E70,631,1,1
+627,1,627,St. Matthew H.S <> Bearbrook,,3,,FFFFFF,6D6E70,634,1,1
+628,1,628,Louis-Riel <> Blair,,3,,FFFFFF,6D6E70,635,1,1
+63,1,63,Innovation / Briarbrook <> Tunney's Pasture,,3,,0057B8,FFFFFF,70,1,1
+630,1,630,Blair / Colonel By / Gloucester H.S <> Millennium,,3,,FFFFFF,6D6E70,637,1,1
+631,1,631,Colonel By / Gloucester H.S <> Innes,,3,,FFFFFF,6D6E70,638,1,1
+632,1,632,Gisèle Lalonde <> Orléans,,3,,FFFFFF,6D6E70,639,1,1
+633,1,633,Lester B. Pearson <> St-Laurent,,3,,FFFFFF,6D6E70,640,1,1
+634,1,634,Mer bleue <> Place d'Orléans,,3,,FFFFFF,6D6E70,641,1,1
+637,1,637,St. Matthew H.S <> Chapel Hill,,3,,FFFFFF,6D6E70,644,1,1
+638,1,638,Cairine Wilson H.S <> Place d'Orléans,,3,,FFFFFF,6D6E70,645,1,1
+639,1,639,Gisèle Lalonde <> Place d'Orléans,,3,,FFFFFF,6D6E70,646,1,1
+640,1,640,Brookfield <> Greenboro,,3,,FFFFFF,6D6E70,647,1,1
+641,1,641,Louis Riel <> Orléans,,3,,FFFFFF,6D6E70,648,1,1
+644,1,644,Canterbury H.S <> Greenboro,,3,,FFFFFF,6D6E70,651,1,1
+645,1,645,Hurdman,,3,,FFFFFF,6D6E70,652,1,1
+646,1,646,Canterbury H.S <> Terry Fox,,3,,FFFFFF,6D6E70,653,1,1
+647,1,647,Canterbury H.S. <> Hurdman,,3,,FFFFFF,6D6E70,654,1,1
+648,1,648,Louis Riel <> Orléans,,3,,FFFFFF,6D6E70,655,1,1
+649,1,649,Hillcrest <> Greenboro,,3,,FFFFFF,6D6E70,656,1,1
+656,1,656,Hope Side <> AY Jackson,,3,,FFFFFF,6D6E70,663,1,1
+657,1,657,Hope Side <> AY Jackson,,3,,FFFFFF,6D6E70,664,1,1
+658,1,658,Grandview / Borden <> Bell H.S,,3,,FFFFFF,6D6E70,665,1,1
+659,1,659,Longfields-Davidson Heights <> Leikin,,3,,FFFFFF,6D6E70,666,1,1
+66,1,66,Tunneys Pasture <> Innovation,,3,,FFFFFF,6D6E70,73,1,1
+660,1,660,Bell H.S <> Innovation,,3,,FFFFFF,6D6E70,667,1,1
+661,1,661,Bell H.S <> Terry Fox,,3,,FFFFFF,6D6E70,668,1,1
+662,1,662,Holy Trinity,,3,,FFFFFF,6D6E70,669,1,1
+663,1,663,Earl of March H.S <> Terry Fox,,3,,FFFFFF,6D6E70,670,1,1
+664,1,664,Earl of March <> Terry Fox,,3,,FFFFFF,6D6E70,671,1,1
+665,1,665,Bell H.S <> Bridlewood,,3,,FFFFFF,6D6E70,672,1,1
+667,1,667,Holy Trinity H.S <> Hope Side,,3,,FFFFFF,6D6E70,674,1,1
+668,1,668,Holy Trinity H.S <> Bridlewood,,3,,FFFFFF,6D6E70,675,1,1
+669,1,669,Bell <> Bayshore,,3,,FFFFFF,6D6E70,676,1,1
+67,1,67,Terry Fox / Tunney's Pasture <> Cope,,3,,6D6E70,FFFFFF,74,1,1
+670,1,670,St. Pius <> Nepean S.,,3,,FFFFFF,6D6E70,677,1,1
+671,1,671,John McCrae H.S <> Half Moon Bay,,3,,FFFFFF,6D6E70,678,1,1
+672,1,672,John McCrae H.S <> Golflinks,,3,,FFFFFF,6D6E70,679,1,1
+673,1,673,Fallowfield <> Longfields Davidson Heights & Pierre-de-blois,,3,,FFFFFF,6D6E70,680,1,1
+674,1,674,All Saints <> Innovation,,3,,FFFFFF,6D6E70,681,1,1
+675,1,675,Bell H.S / Franco-Ouest <> Cambrian,,3,,FFFFFF,6D6E70,682,1,1
+676,1,676,St. Mother Teresa H.S <> Riverview,,3,,FFFFFF,6D6E70,683,1,1
+677,1,677,St. Joseph H.S <> Larkin,,3,,FFFFFF,6D6E70,684,1,1
+678,1,678,Louis Riel <> Orléans,,3,,FFFFFF,6D6E70,685,1,1
+679,1,679,St.Joseph H.S <> Cobble Hill,,3,,FFFFFF,6D6E70,686,1,1
+68,1,68,Baseline <> Terry Fox,,3,,0057B8,FFFFFF,75,1,1
+680,1,680,Merivale H.S <> Riverside South ~ Riverside Sud,,3,,FFFFFF,6D6E70,687,1,1
+681,1,681,Bell H.S <> Kanata,,3,,FFFFFF,6D6E70,688,1,1
+682,1,682,Cedarview M.S <> Fallowfield,,3,,FFFFFF,6D6E70,689,1,1
+683,1,683,Cedarview M.S <> Half Moon Bay,,3,,FFFFFF,6D6E70,690,1,1
+684,1,684,Golflinks <> Longfields-Davidson Heights,,3,,FFFFFF,6D6E70,691,1,1
+685,1,685,Pierre-de-Blois <> Fallowfield,,3,,FFFFFF,6D6E70,692,1,1
+686,1,686,Omer-Deslauriers <> Baseline,,3,,FFFFFF,6D6E70,693,1,1
+687,1,687,Merivale H.S <> Merivale Gardens,,3,,FFFFFF,6D6E70,694,1,1
+688,1,688,Merivale H.S <> Terry Fox,,3,,FFFFFF,6D6E70,695,1,1
+689,1,689,Billings Bridge <> Omer-Deslauriers,,3,,FFFFFF,6D6E70,696,1,1
+690,1,690,St. Mother Teresa H.S <> Barrhaven Centre,,3,,FFFFFF,6D6E70,697,1,1
+691,1,691,Omer-Deslauriers <> Bayshore,,3,,FFFFFF,6D6E70,698,1,1
+696,1,696,St. Mother Theresa H.S <> Larkin,,3,,FFFFFF,6D6E70,703,1,1
+697,1,697,Leitrim <> Ridgemont H.S,,3,,FFFFFF,6D6E70,704,1,1
+698,1,698,St.Patrick H.S <> Blohm,,3,,FFFFFF,6D6E70,705,1,1
+699,1,699,Pierre-Des-Blois <> Findlay Creek,,3,,FFFFFF,6D6E70,706,1,1
+7,1,7,Carleton <> St-Laurent,,3,,0057B8,FFFFFF,14,1,1
+70,1,70,Fallowfield <> Limebank & CFIA ~ ACIA,,3,,6D6E70,FFFFFF,77,1,1
+73,1,73,Limebank <> Fallowfield / Tunney's Pasture,,3,,6D6E70,FFFFFF,80,1,1
+74,1,74,Limebank <> Tunney's Pasture,,3,,0057B8,FFFFFF,81,1,1
+75,1,75,Tunney's Pasture & N Rideau <> Barrhaven Centre / Cambrian,,3,,0057B8,FFFFFF,82,1,1
+8,1,8,Gatineau <> Dow's Lake ~ Lac Dow,,3,,6D6E70,FFFFFF,15,1,1
+80,1,80,Barrhaven Centre <> Tunney's Pasture,,3,,0057B8,FFFFFF,87,1,1
+81,1,81,Tunney's Pasture <> Bayshore,,3,,6D6E70,FFFFFF,88,1,1
+82,1,82,Baseline <> Lincoln Fields & Tunney's Pasture,,3,,6D6E70,FFFFFF,89,1,1
+84,1,84,Centrepointe <> Baseline,,3,,FFFFFF,6D6E70,91,1,1
+85,1,85,Lees <> Bayshore,,3,,0057B8,FFFFFF,92,1,1
+86,1,86,Tunney's Pasture <> Antares,,3,,6D6E70,FFFFFF,93,1,1
+87,1,87,Tunney's Pasture <> Baseline,,3,,0057B8,FFFFFF,94,1,1
+88,1,88,Hurdman <> Bayshore,,3,,0057B8,FFFFFF,95,1,1
+9,1,9,Rideau <> Hurdman,,3,,6D6E70,FFFFFF,16,1,1
+90,1,90,Greenboro <> Hurdman,,3,,0057B8,FFFFFF,97,1,1
+92,1,92,Greenboro <> Walkley / Hurdman,,3,,FFFFFF,6D6E70,99,1,1
+93,1,93,Rotary <> Leitrim,,3,,6D6E70,FFFFFF,100,1,1
+94,1,94,Leitrim <> Dun Skipper,,3,,FFFFFF,6D6E70,101,1,1
+98,1,98,Hawthorne <> Hurdman,,3,,0057B8,FFFFFF,105,1,1
+99,1,99,Barrhaven Centre via Weybridge <> LimebanK,,3,,6D6E70,FFFFFF,106,1,1
+E1,1,E1,Shuttle-Express Downtown ~ Navette-Express Centre-Ville <> Shuttle-Express Blair ~ Navette-Express Blair,,3,,D30F1D,FFFFFF,5,1,1
+R1,1,R1,Tunney's Pasture <> Blair,,3,,D30F1D,FFFFFF,7,1,1

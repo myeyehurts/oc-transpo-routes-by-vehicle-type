@@ -5,4 +5,10 @@ from django.db import models
 class Route(models.Model):
     number = models.CharField(max_length=10)
     destination = models.CharField(max_length=200)
-    colour = models.CharField(max_length=10)
+    bg_colour = models.CharField(max_length=10)
+    text_colour = models.CharField(max_length=10)
+
+class Trip(models.Model):
+    route = models.ForeignKey(Route, on_delete=models.CASCADE)
+    vehicle_number = models.CharField(max_length=10)
+    time_entered = models.TimeField()

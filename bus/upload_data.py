@@ -5,14 +5,14 @@ from tablib import Dataset
 from .models import Route
 from bus.resource import RouteResource
 
-def upload_from_spreadsheet(model, file_path):
-    resource = model()
+def upload_from_spreadsheet(model_resource, file_path):
+    resource = model_resource()
     dataset = Dataset()
 
     try:
         with open(file_path, 'r') as file:
             dataset.load(file.read(), format="csv") # read the spreadsheet file
-            resource.import_data(dataset, dry_run=False) # upload and save to database
+            result = resource.import_data(dataset, dry_run=False) # upload and save to database
     except Exception as e:
         print(e)
 
